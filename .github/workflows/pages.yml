@@ -1,0 +1,16 @@
+name: Pages Check
+
+on:
+  workflow_dispatch:
+
+jobs:
+  pages-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify web folder
+        run: |
+          test -f web/index.html
+          test -f web/app.js
+          test -f web/style.css
+          echo "Web folder OK"
