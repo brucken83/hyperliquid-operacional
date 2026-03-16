@@ -1,9 +1,0 @@
-body { font-family: Arial, sans-serif; margin: 24px; background: #f7f9fc; color: #1f2937; }
-h1 { margin-bottom: 4px; }
-.subtitle { margin-top: 0; color: #6b7280; }
-section { margin-top: 28px; }
-.card { background: white; border-radius: 12px; padding: 16px; margin-bottom: 12px; box-shadow: 0 2px 8px rgba(0,0,0,.08); }
-.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
-.badge { display: inline-block; padding: 4px 8px; border-radius: 999px; font-size: 12px; background: #e5e7eb; }
-.long { background: #dcfce7; }
-.short { background: #fee2e2; }
