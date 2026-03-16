@@ -4,5 +4,6 @@
     "ETH"
   ],
   "rsi2_threshold": 7,
-  "pullback_lookback_bars": 5
+  "pullback_lookback_bars": 5,
+  "history_limit": 25
 }
