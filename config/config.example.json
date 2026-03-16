@@ -1,0 +1,8 @@
+{
+  "coins": [
+    "BTC",
+    "ETH"
+  ],
+  "rsi2_threshold": 7,
+  "pullback_lookback_bars": 5
+}
