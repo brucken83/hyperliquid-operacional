@@ -13,10 +13,7 @@ def main():
     for s in signals:
         k = (s["coin"], s["side"], s["time"])
         if k not in existing:
-            paper.append({
-                "coin": s["coin"], "side": s["side"], "entry": s["entry"], "stop": s["stop"],
-                "target1": s["target1"], "target2": s["target2"], "status": "OPEN", "time": s["time"]
-            })
+            paper.append({"coin": s["coin"], "side": s["side"], "entry": s["entry"], "stop": s["stop"], "target1": s["target1"], "target2": s["target2"], "status": "OPEN", "time": s["time"]})
     paper_path.write_text(json.dumps(paper, indent=2, ensure_ascii=False), encoding="utf-8")
 if __name__ == "__main__":
     main()

@@ -13,6 +13,7 @@ def main():
     ensure_file("signals_history.json", [])
     ensure_file("paper_trades.json", [])
     ensure_file("meta.json", {"last_update":"","tracked_assets":0,"signals_now":0,"bull_count":0,"bear_count":0})
+    ensure_file("market_metrics.json", {"BTC":{},"ETH":{}})
     print("ok")
 if __name__ == "__main__":
     main()
