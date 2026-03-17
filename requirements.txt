@@ -1,2 +1,7 @@
-pandas>=2.0
-requests>=2.31
+{
+  "last_update": "",
+  "tracked_assets": 0,
+  "signals_now": 0,
+  "bull_count": 0,
+  "bear_count": 0
+}
