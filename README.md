@@ -1,8 +1,3 @@
-# hyperliquid-operacional v2
+# hyperliquid-operacional v3
 
-Versão 2 com:
-- dashboard visual melhor
-- última atualização
-- histórico de sinais
-- cores para funding
-- métricas-resumo
+Inclui Funding, OI, CVD e Long/Short Ratio no dashboard.
