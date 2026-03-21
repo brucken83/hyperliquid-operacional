@@ -2,6 +2,16 @@
   {
     "coin": "ETH",
     "side": "SHORT",
+    "entry": 2149.1,
+    "stop": 2154.6,
+    "target1": 2143.6,
+    "target2": 2138.1,
+    "funding_hr_pct": 0.00015758,
+    "time": "2026-03-21 19:44:59.999000+00:00"
+  },
+  {
+    "coin": "ETH",
+    "side": "SHORT",
     "entry": 2151.8,
     "stop": 2167.6,
     "target1": 2136.0000000000005,
