@@ -2,6 +2,16 @@
   {
     "coin": "BTC",
     "side": "LONG",
+    "entry": 75350.0,
+    "stop": 75050.0,
+    "target1": 75650.0,
+    "target2": 75950.0,
+    "funding_hr_pct": -0.00139656,
+    "time": "2026-04-17 11:14:59.999000+00:00"
+  },
+  {
+    "coin": "BTC",
+    "side": "LONG",
     "entry": 74377.0,
     "stop": 74113.0,
     "target1": 74641.0,
