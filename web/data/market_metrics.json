@@ -1,16 +1,16 @@
 {
   "BTC": {
     "funding_hr_pct": 0.00125,
-    "open_interest": 43472.90272,
-    "cvd_total": 1145.7648700000007,
-    "cvd_12bars": -435.3842200000001,
+    "open_interest": 43513.50484,
+    "cvd_total": 1226.5975599999997,
+    "cvd_12bars": -227.6876800000001,
     "long_short_ratio": null
   },
   "ETH": {
-    "funding_hr_pct": 0.0003207,
-    "open_interest": 888366.2239999999,
-    "cvd_total": -39471.54719999999,
-    "cvd_12bars": 6936.263399999996,
+    "funding_hr_pct": 0.00090884,
+    "open_interest": 888169.5619999998,
+    "cvd_total": -38365.13719999998,
+    "cvd_12bars": 7753.493999999998,
     "long_short_ratio": null
   }
 }
